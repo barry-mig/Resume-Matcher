@@ -71,6 +71,10 @@ If you have any suggestions or feature requests, please feel free to open an iss
 
 Follow the instructions in the [SETUP.md](SETUP.md) file to set up the project locally. The setup script will install all the necessary dependencies and configure your environment.
 
+📋 **New to the project?** Check out our comprehensive dependency guide:
+- [🚀 Quick Setup Guide](QUICK_SETUP.md) - Get running in minutes
+- [📦 Complete Dependencies Guide](DEPENDENCIES.md) - Detailed requirements and troubleshooting
+
 The project is built using:
 
 - FastAPI for the backend.
